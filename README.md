@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mooka007 🍑
-- 🌴 a big Stoner \m/  
+
 
 <!---
 mooka007/mooka007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
